@@ -69,14 +69,14 @@ D   Bm
 [Outro]
 D                      Bm
 Girls, who, wanna have fun
-D
+                  D
 Girls, wanna have fun
-Bm
+                  Bm
 Girls, wanna have fun
-D
+                  D
 Girls, wanna have fun
-Bm
+                  Bm
 Girls, wanna have fun
-D
+                   D
 Girls, wanna have fun
 ```
