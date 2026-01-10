@@ -1,3 +1,4 @@
+```
 [Intro]
 D   Bm
 
@@ -6,7 +7,7 @@ D
 I get home in the mornin' light
 Bm
 My mother says, "When you gonna live your life right?"
-G                         
+G
 Oh, mama dear, we're not the fortunate ones
 
 [Chorus]
@@ -23,13 +24,13 @@ D
 The phone rings in the middle of the night
 Bm
 My father says, "What you gonna do with your life?"
-G                         
+G
 Oh, daddy dear, you know you're still number one
 
 [Chorus]
 Bm          A               G
 But girls, just wanna have fun
-Bm          A              
+Bm          A
 Oh, girls just wanna have
 
 D
@@ -53,7 +54,7 @@ D
 Some boys take a beautiful girl
 Bm
 And hide her away from the rest of the world
-G                         
+G
 I want to be the one who walks in the sun
 
 [Chorus]
@@ -68,13 +69,14 @@ D   Bm
 [Outro]
 D                      Bm
 Girls, who, wanna have fun
-                  D               
+D
 Girls, wanna have fun
-                  Bm
+Bm
 Girls, wanna have fun
-                  D 
+D
 Girls, wanna have fun
-                  Bm
+Bm
 Girls, wanna have fun
-                  D 
+D
 Girls, wanna have fun
+```
