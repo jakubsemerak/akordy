@@ -21,7 +21,7 @@ D   Bm
 
 [Verse 2]
 D
-The phone rings in the middle of the night
+I get home in the middle of the night
 Bm
 My father says, "What you gonna do with your life?"
 G
